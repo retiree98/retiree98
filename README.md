@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @retiree98 aka Abdelrahman
 - 🌱 I’m currently learning Front-End Development
 - 📫 How to reach me? --at my LinkedIn ( https://www.linkedin.com/in/abdelrahmanabdelmohsen/ )
+- Email -- elkasrawy22@gmail.com
 
 <!---
 retiree98/retiree98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
