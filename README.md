@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @retiree98 aka Abdelrahman
-- 🌱 I’m currently learning Front-End Development
+- 👋 Hi, I’m Abdelrahman
+- 🌱 I’m currently Working as Project Manager and Odoo Implementor
 - 📫 How to reach me? --at my LinkedIn ( https://www.linkedin.com/in/abdelrahmanabdelmohsen/ )
 - Email -- abdelrahman.50607080@gmail.com
 
