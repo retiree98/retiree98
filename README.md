@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdelrahman
 - 🌱 I’m currently Working as Project Manager and Odoo Implementor
-- 📫 How to reach me? --at my LinkedIn ( https://www.linkedin.com/in/abdelrahmanabdelmohsen/ )
-- Email -- abdelrahman.50607080@gmail.com
+- 📫 How to reach me? --at my LinkedIn ( https://www.linkedin.com/in/3abdelra7mann/ )
+- Email -- abdelra7man.abdelmohsen@gmail.com
 
 <!---
 retiree98/retiree98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
