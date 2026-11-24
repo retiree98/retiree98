@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdelrahman
-- 🌱 I’m currently Working as Project Manager and Odoo Implementor
+- 🌱 I’m currently Working as a Project Manager and an Odoo Implementor
 - 📫 How to reach me? --at my LinkedIn ( https://www.linkedin.com/in/3abdelra7mann/ )
 - Email -- abdelra7man.abdelmohsen@gmail.com
 
